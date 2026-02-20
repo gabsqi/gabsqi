@@ -18,6 +18,7 @@ Estudande de Análise e Desenvolvimento de Sistemas - UNIASSELVI
 ![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2196F3?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 Atualmente estou focando meus estudos em:
 
 - Estruturação semântica com HTML
@@ -34,11 +35,12 @@ Meu ojbetivo é aprender a sair do "funciona" e ir para o "funciona bem e profis
 
 ## 📊 Estatísticas
 
-![GitHubStats](https://github-readme-stats.vercel.app/api?username=gabsqi&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabsqi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsqi&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsqi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
-![GitHubStreak](https://streak-stats.demolab.com?user=gabsqi&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=gabsqi&theme=tokyonight&hide_border=true)
+
 
 
 ---
