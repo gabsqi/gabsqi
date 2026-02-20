@@ -14,8 +14,10 @@ Estudande de Análise e Desenvolvimento de Sistemas - UNIASSELVI
 
 ---
 
-## 🧠 Sobre mim
-
+## 🧠 Meu desenvolvimento
+![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2196F3?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 Atualmente estou focando meus estudos em:
 
 - Estruturação semântica com HTML
@@ -26,15 +28,9 @@ Atualmente estou focando meus estudos em:
 
 Meu ojbetivo é aprender a sair do "funciona" e ir para o "funciona bem e profissional".
 
----
-
-## 🚀 Tecnologias que uso atualmente
-
-![HTML](https://img.shields.io/badge/HTML-FF5722?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-2196F3?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
+
 
 ## 📊 Estatísticas
 
@@ -44,7 +40,9 @@ Meu ojbetivo é aprender a sair do "funciona" e ir para o "funciona bem e profis
 
 ![GitHubStreak](https://streak-stats.demolab.com?user=gabsqi&theme=tokyonight&hide_border=true)
 
+
 ---
+
 
 ## 💼 Projetos
 
@@ -74,7 +72,6 @@ Implementei transições entre estados, uso de **CSS Grid / Flexbox**, e indicad
 Protótipo  de uma página de agência de viagens estática com seções de destinos e pacotes.  
 Estruturei conteúdo em seções temáticas e organizei a informação com **títulos, subtítulos e layouts responsivos**, preparando o terreno para futuras animações ou integração com APIs.
 
----
 
 
 
