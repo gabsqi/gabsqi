@@ -2,16 +2,15 @@
 
 Estudande de Análise e Desenvolvimento de Sistemas - UNIASSELVI
 
-💻 Desenvolvedor Front-End focado  
+💻 Desenvolvedor Front-End  
 🚀 Evoluindo constantemente em HTML, CSS e JavaScript  
 🎯 Buscando transformar código em experiência visual bem estruturada  
 
-## 📫 Contato
+## 📫 Contatos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-gabrielramos/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51998912119)
-[![Hotmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabramos95@hotmail.com)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5551998912119)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabramos95@hotmail.com)
 
 ---
 
@@ -39,11 +38,11 @@ Meu ojbetivo é aprender a sair do "funciona" e ir para o "funciona bem e profis
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabsqi&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=gabsqi&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsqi&layout=compact&theme=tokyonight&hide_border=true)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsqi&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=gabsqi&theme=tokyonight&hide_border=true)
+![GitHubStreak](https://streak-stats.demolab.com?user=gabsqi&theme=tokyonight&hide_border=true)
 
 ---
 
