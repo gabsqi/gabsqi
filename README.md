@@ -32,18 +32,6 @@ Meu ojbetivo é aprender a sair do "funciona" e ir para o "funciona bem e profis
 ---
 
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabsqi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabsqi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gabsqi&theme=tokyonight&hide_border=true)
-
-
-
----
-
 
 ## 💼 Projetos
 
