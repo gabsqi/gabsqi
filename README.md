@@ -7,7 +7,6 @@ Estudande de Análise e Desenvolvimento de Sistemas - UNIASSELVI
 🎯 Buscando transformar código em experiência visual bem estruturada  
 
 ## 📫 Contatos
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-gabrielramos/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5551998912119)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabramos95@hotmail.com)
@@ -73,10 +72,6 @@ Implementei transições entre estados, uso de **CSS Grid / Flexbox**, e indicad
 🔗 https://gabsqi.github.io/paginadeviagem/  
 Protótipo  de uma página de agência de viagens estática com seções de destinos e pacotes.  
 Estruturei conteúdo em seções temáticas e organizei a informação com **títulos, subtítulos e layouts responsivos**, preparando o terreno para futuras animações ou integração com APIs.
-
-
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabsqi&show_icons=true&theme=tokyonight&hide_border=true)
 
 
 
