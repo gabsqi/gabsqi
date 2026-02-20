@@ -76,5 +76,7 @@ Estruturei conteúdo em seções temáticas e organizei a informação com **tí
 
 
 
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabsqi&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 
