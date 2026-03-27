@@ -4,7 +4,7 @@ Estudande de Análise e Desenvolvimento de Sistemas - UNIASSELVI
 
 💻 Desenvolvedor Front-End  
 🚀 Evoluindo constantemente em HTML, CSS e JavaScript  
-🎯 Buscando transformar código em experiência visual bem estruturada  
+🎯 Buscando transformar código em experiência visual bem estruturada com foco em solução
 
 ## 📫 Contatos
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-gabrielramos/)
