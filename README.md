@@ -58,7 +58,7 @@ Implementei transições entre estados, uso de **CSS Grid / Flexbox**, e indicad
 
 ### ✈️ Página de Viagens - Página temática de destinos com seções informativas e conteúdo organizado.
 🔗 https://gabsqi.github.io/paginadeviagem/  
-Protótipo  de uma página de agência de viagens estática com seções de destinos e pacotes.  
+EM CONSTRUÇÃO O Protótipo  de uma página de agência de viagens estática com seções de destinos e pacotes.  
 Estruturei conteúdo em seções temáticas e organizei a informação com **títulos, subtítulos e layouts responsivos**, preparando o terreno para futuras animações ou integração com APIs.
 
 
