@@ -37,6 +37,7 @@ Meu ojbetivo é aprender a sair do "funciona" e ir para o "funciona bem e profis
 
 ### 📍 AJ Massoterapia é um produto real e funcional, layout clean e foco em experiência de agendamento.
 🔗 https://gabsqi.github.io/ajmassoterapia/  
+
 Uma página de agendamento para um serviço de massoterapia.  
 Usei formulários HTML simples, layout organizado com CSS, e foco em **hierarquia visual e usabilidade** para navegação clara entre agendamento e informações sobre a profissional.
 
@@ -44,6 +45,7 @@ Usei formulários HTML simples, layout organizado com CSS, e foco em **hierarqui
 
 ### 🌿 Agnes Kokedamas é um produto real de catálogo com integração WhatsApp.
 🔗 https://gabsqi.github.io/agneskokedamasebonsais/ 
+
 Site estático mobile-first para uma floricultura artesanal. Desenvolvido com foco em conversão: o cliente navega pelo catálogo e encomenda direto pelo WhatsApp com mensagem pré-preenchida.
 Aplicados: CSS Grid, Flexbox, pseudo-elementos (::before), variáveis CSS, media queries e responsividade.
 
@@ -51,6 +53,7 @@ Aplicados: CSS Grid, Flexbox, pseudo-elementos (::before), variáveis CSS, media
 
 ### 🔑 Página de Login é uma estrutura de formulário com foco em UX de autenticação.
 🔗 https://gabsqi.github.io/paginadelogin/  
+
 Uma interface de **login e cadastro** com caixas de entrada e botões amigáveis.  
 Trabalhei a composição de formulários, estilos de inputs e botões, priorizando **clareza de interação em telas estáticas**.
 
@@ -58,6 +61,7 @@ Trabalhei a composição de formulários, estilos de inputs e botões, priorizan
 
 ### 🛍️ E-commerce Homepage é UI com slider de produtos + JS que atualiza números/dots dinamicamente. 
 🔗 https://gabsqi.github.io/ecommercehomepage/  
+
 Página principal de uma loja fictícia com carrossel de produtos, imagens e navegação.  
 Implementei transições entre estados, uso de **CSS Grid / Flexbox**, e indicadores de navegação com JavaScript (slider funcional que atualiza número/dot conforme slide).
 
@@ -66,6 +70,7 @@ Implementei transições entre estados, uso de **CSS Grid / Flexbox**, e indicad
 e em fase inicial:
 ### ✈️ Página de Viagens é um site temático de destinos com seções informativas e conteúdo organizado.
 🔗 https://gabsqi.github.io/paginadeviagem/  
+
 EM CONSTRUÇÃO O Protótipo  de uma página de agência de viagens estática com seções de destinos e pacotes.  
 Estruturei conteúdo em seções temáticas e organizei a informação com **títulos, subtítulos e layouts responsivos**, preparando o terreno para futuras animações ou integração com APIs.
 
