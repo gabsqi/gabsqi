@@ -43,7 +43,7 @@ Usei formulários HTML simples, layout organizado com CSS, e foco em **hierarqui
 ---
 
 ### 🌿 Agnes Kokedamas é um produto real de catálogo com integração WhatsApp.
-🔗 https://gabsqi.github.io/agneskokedamasebonsais/
+🔗 https://gabsqi.github.io/agneskokedamasebonsais/ 
 Site estático mobile-first para uma floricultura artesanal. Desenvolvido com foco em conversão: o cliente navega pelo catálogo e encomenda direto pelo WhatsApp com mensagem pré-preenchida.
 Aplicados: CSS Grid, Flexbox, pseudo-elementos (::before), variáveis CSS, media queries e responsividade.
 
