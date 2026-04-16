@@ -26,8 +26,6 @@ Atualmente estou focando meus estudos em:
 - Organização visual e hierarquia de interface
 - Boas práticas de código e refinamento de layout
 
-Meu ojbetivo é aprender a sair do "funciona" e ir para o "funciona bem e profissional".
-
 
 ---
 
